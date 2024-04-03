@@ -12,15 +12,15 @@
 
 🕹️ **About Me**:
 
-- **Passionate Software Engineer** & Full-Stack Web Developer
+- **Passionate Software Engineer** & Graphic Designer
 - **Alumnus of Oregon State University**
-- **Enthusiastic about Game Development** and 3D Software
+- **Enthusiastic about Rendering** and 3D Software
 
 ```javascript
 const sree = {
   pronouns: "he" | "him",
   code: [Javascript, Python, C/C++, HTML, CSS, Kotlin, Swift],
-  tools: [React, Electron, Node, Docker, LangChain, Unity, Blender],
+  tools: [React, Electron, Node, LangChain, Octane, Blender],
 }
 ```
 
