@@ -1,4 +1,4 @@
-<h1> Hi, I'm Sree Gajula! <<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFpb2l0OTU3aGh1OGF3c3FhNGtuaDZpcmswMXd5cTl5NjFvdXUyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KRfBgRKoKuXno1Sb4D/giphy.gif" width="50"></h1>
+<h1> Hi, I'm Sree Gajula! <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFpb2l0OTU3aGh1OGF3c3FhNGtuaDZpcmswMXd5cTl5NjFvdXUyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KRfBgRKoKuXno1Sb4D/giphy.gif" width="50"></h1>
 
   
 [![YouTube: PopNerdStudio](https://img.shields.io/badge/Subscribe-16k-red?style=flat&logo=youtube&labelColor=red)](https://www.youtube.com/@PopNerdStudio/)
